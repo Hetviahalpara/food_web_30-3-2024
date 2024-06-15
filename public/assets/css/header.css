@@ -1,0 +1,86 @@
+.nav-link {
+    margin: 0 17px;
+    font-size: 17px;
+}
+
+/*============ home start ============*/
+:root {
+    --red: #e01a1a;
+}
+.red {
+    color: var(--red);
+}
+.bg-red{
+    background-color: var(--red);
+}
+.home-btn-1 {
+    font-size: 15px;
+    border: 1px solid var(--red);
+    background: var(--red);
+    color: white;
+    padding: 2px 14px;
+    border-radius: 6px;
+}
+.home-btn-2 {
+    border: 1px solid var(--red);
+    font-size: 15px;
+    background-color: transparent;
+    color: var(--red);
+    padding: 3px 14px;
+    border-radius: 6px;
+}
+.f-18 {
+    font-size: 18px;
+}
+.w-70 {
+    width: 70%;
+}
+.ri-shield-keyhole-line:before {
+    content: "\f107";
+    background: red;
+    padding: 3px;
+    border-radius: 50%;
+    color: white;
+}
+.ri-truck-line:before {
+    background: red;
+    padding: 3px;
+    border-radius: 50%;
+    color: white;
+}
+.category-div {
+    background: #f88f8f1a;
+    padding: 15px;
+}
+.menu {
+    border-radius: 5px;
+    text-align: center;
+    background-color: #e01a1a;
+    list-style: none;
+    padding: 20px 0;
+}
+.menu li {
+    display: inline-block;
+}
+.menu li a {
+    text-decoration: none;
+    padding: 0 20px;
+    color: white;
+    font-weight: 600;
+}
+.f-24 {
+    font-size: 24px;
+}
+.carousel-img {
+    width: 55px;
+    height: 50px;
+    border-radius: 5px;
+}
+/*============ home end ============*/
+.ri-search-line{
+    top: 6px;
+    right: 12px;
+}
+.w-100px{
+    width: 100px;
+}

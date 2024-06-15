@@ -1,0 +1,6 @@
+.btn-cart:hover {
+    color: white;
+    background-color: var(--red);
+    border-color: var(--red);
+    opacity: .7;
+}
